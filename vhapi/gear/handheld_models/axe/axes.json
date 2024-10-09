@@ -1,0 +1,10 @@
+{
+  "MODELS": [
+    {
+      "id": "custom_transmogs:gear/axe/anchor",
+      "displayName": "Iskallianchor",
+      "discoverOnRoll": true,
+      "allowTransmogrification": true
+    }
+  ]
+}
