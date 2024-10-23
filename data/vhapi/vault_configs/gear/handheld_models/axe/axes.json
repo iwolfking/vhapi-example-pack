@@ -1,7 +1,7 @@
 {
   "MODELS": [
     {
-      "id": "custom_transmogs:gear/axe/anchor",
+      "id": "vhapi:gear/axe/anchor",
       "displayName": "Iskallianchor",
       "discoverOnRoll": true,
       "allowTransmogrification": true
